@@ -140,8 +140,8 @@ const CrearEmpresa = () => {
                   formik.touched.tipo_documento && formik.errors.tipo_documento
                 }
               >
-                <MenuItem value={"cl6zvn41d0000n9y84os7lur0"}>NIT</MenuItem>
-                <MenuItem value={"I"}>CC</MenuItem>
+                <MenuItem value={"cl70jb97n00190yuc9qqhncaz"}>NIT - Numero de Identificacion Tributaria</MenuItem>
+                <MenuItem value={"cl70j5qvx00000yuciks4f3p9"}>CC - Cedula de Ciudadania</MenuItem>
               </TextField>
             </FormControl>
           </Grid>
